@@ -1,0 +1,11 @@
+<resources>
+
+
+    <string name="app_name"></string>
+    <string name="user_name">username</string>
+    <string name="password">password</string>
+    <string name="log_in">Log in</string>>
+    <string name="btn_login_facebook">Iniciar con facebook</string>
+    <string name="text_login_title">Unete y Pide tu Agua.</string>
+
+</resources>
